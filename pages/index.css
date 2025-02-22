@@ -1,0 +1,59 @@
+/* Vendor */
+@import url(../vendor/normalize.css);
+
+/* Header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo-img/header__logo-img.css);
+@import url(../blocks/header/__menu-list/header__menu-list.css);
+@import url(../blocks/header/__menu-item/header__menu-item.css);
+@import url(../blocks/header/__burger-menu/header__burger-menu.css);
+@import url(../blocks/header/__menu/header__menu.css);
+
+/* Logo */
+@import url(../blocks/logo/header__logo.css);
+@import url(../blocks/logo/__img/logo__img.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/logo/__text/logo__text.css);
+
+
+/* Main */
+@import url(../blocks/main/main.css);
+@import url(../blocks/main/__products/main__products.css);
+
+/* Product */
+@import url(../blocks/product/product.css);
+@import url(../blocks/product/__img/product__img.css);
+@import url(../blocks/product/__title/product__title.css);
+@import url(../blocks/product/__info/product__info.css);
+@import url(../blocks/product/__description/product__description.css);
+@import url(../blocks/product/__text/product__text.css);
+@import url(../blocks/product/__price/product__pice.css);
+@import url(../blocks/product/__buy-btn/product__buy-btn.css);
+
+
+
+
+
+/* Search */
+@import url(../blocks/search/__label/search__label.css);
+@import url(../blocks/search/__input/search__input.css);
+@import url(../blocks/search/__button/search__button.css);
+@import url(../blocks/search/search.css);
+
+
+/* Footer */
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__social-btn/footer__social-btn.css);
+@import url(../blocks/footer/__social-media/footer__social-media.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__logo-img/footer__logo-img.css);
+@import url(../blocks/footer/__logo-img/footer__logo-img.css);
+
+
+
+
+
+
